@@ -1,12 +1,3 @@
-! Title: DoH DNS Block Filter
-! Description: Filter to block the publicly available DoH servers.
-! Homepage: https://github.com/stonerl/doh-list
-! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
-! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2024-12-28 00:10:38
-#
-# Domains of DoH services:
-#
 052419.xyz
 0ms.dev
 123000123.xyz
